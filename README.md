@@ -8,7 +8,7 @@ KryptoJobs2Go is an application that its customers can use to find fintech profe
 I will complete the code that enables customers to send cryptocurrency payments to fintech professionals. To develop the code and test it out, I assumed the perspective of a KryptoJobs2Go customer who is using the application to find a fintech professional and pay them for their work.
 
 ## FinTech Professionals
-![Jo](jo.jpeg)    ![Kendall](kendall.jpeg? title=True)    ![Ash](ash.jpeg)       ![Lane](lane.jpeg)
+![Jo](jo.jpeg)    ![title = Kendall](kendall.jpeg)    ![Ash](ash.jpeg)       ![Lane](lane.jpeg)
 
 
 ### What I am Creating
