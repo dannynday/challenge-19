@@ -5,7 +5,11 @@
 ### Background
 
 KryptoJobs2Go is an application that its customers can use to find fintech professionals from among a list of candidates, hire them, and pay them. As KryptoJobs2Go’s lead developer, I have been tasked with integrating the Ethereum blockchain network into the application in order to enable my customers to instantly pay the fintech professionals whom they hire with cryptocurrency.
-![Jo](jo.jpeg)    ![Kendall](Kendall.jpeg)    ![Ash](Ash.jpeg)       ![Lane](Lane.jpeg)
+
+![Jo](jo.jpeg)    ![Kendall](kendall.jpeg)    ![Ash](ash.jpeg)       ![Lane](lane.jpeg)
+
+
+
 I will complete the code that enables customers to send cryptocurrency payments to fintech professionals. To develop the code and test it out, I assumed the perspective of a KryptoJobs2Go customer who is using the application to find a fintech professional and pay them for their work.
 
 ### What I am Creating
