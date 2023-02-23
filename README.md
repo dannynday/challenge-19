@@ -88,5 +88,5 @@ Now it's time to put it all together and test the KryptoJobs2Go application with
 
 3. from there, I can test everything
 
-## `because I runed through issues with my streamlit. here is the screanshot of my `ganache` and my `code``
+#### `because I runed through issues with my streamlit. here is the screanshot of my `ganache` and my `code`
 ![](Screenshot_20230223_020632.png)
