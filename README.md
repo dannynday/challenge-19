@@ -9,7 +9,7 @@ I will complete the code that enables customers to send cryptocurrency payments 
 
 ## FinTech Professionals
 ![Jo](jo.jpeg)    ![Kendall](kendall.jpeg)    ![Ash](ash.jpeg)       ![Lane](lane.jpeg)
-
+    **Jo**           **Kendall**                **Ash**                    **Lane**
 
 ### What I am Creating
 
